@@ -1,0 +1,8 @@
+{
+  "name": "jquery.mobile",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/asgeo1/jquery.mobile.git"
+  }
+}
